@@ -69,8 +69,7 @@ Strategies for Effective Communication: Some strategies for effectively communic
 3. Organize Content Logically: Structure the content in a clear, logical manner with well-formatted headings and subheadings. This helps users navigate the information and understand the overall flow of the content.
 4. Leverage Visual Aids: Incorporate visual elements, such as diagrams, illustrations, and infographics, to complement the written content. These visual aids can effectively convey complex technical information in an accessible and engaging way.
 5. Ensure Accessibility of Multimedia: For any multimedia content, such as videos or audio recordings, provide synchronized captions, transcripts, and audio descriptions. This ensures that the information is accessible to users with various abilities.
-6. Adhere to Accessibility Standards: Align the content with established accessibility guidelines, such as the Web Content Accessibility Guidelines (WCAG). This helps ensure that the content is designed to be inclusive and usable by a diverse audience.
-7. Gather Feedback and Iterate: Continuously seek feedback from your non-technical audience and make iterative improvements to the content. This will help you identify and address any areas that may be confusing or overwhelming for users with limited technical knowledge.
+6. Gather Feedback and Iterate: Continuously seek feedback from your non-technical audience and make iterative improvements to the content. This will help you identify and address any areas that may be confusing or overwhelming for users with limited technical knowledge.
 
 
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
